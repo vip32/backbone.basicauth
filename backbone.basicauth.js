@@ -1,5 +1,6 @@
 /*!
  * backbone.tokenauth.js v0.4.0
+ * https://github.com/vip32/backbone.tokenauth
  *
  * Adds HTTP Bearer Token Authentication headers,
  * either by reading them from a model property,
