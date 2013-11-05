@@ -1,13 +1,13 @@
 {
-  "name": "backbone.basicauth",
-  "version": "0.4.0",
-  "description": "Sync data through your Backbone Models and Collections to resources protected by HTTP Basic Authentication.",
-  "main": "backbone.basicauth.js",
+  "name": "backbone.tokenauth",
+  "version": "0.1.0",
+  "description": "Sync data through your Backbone Models and Collections to resources protected by HTTP Bearer Token Authentication.",
+  "main": "backbone.tokenauth.js",
   "dependencies": {
     "backbone": "~1.0.0",
     "underscore": ">=1.4.3"
   },
-  "keywords":["backbone.js", "basic authentication", "basicauth", "auth"],
+  "keywords":["backbone.js", "bearer", "token authentication", "tokenauth", "auth"],
   "ignore": [
     "**/.*",
     "node_modules",
